@@ -1,0 +1,7 @@
+{
+  "name": "Zayn Griffe - Salão de Beleza loja",
+  "description": "Website oficial do Salão de Beleza Zayn Griffe em Maputo. Especialistas em estética, cabelo e bem-estar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
